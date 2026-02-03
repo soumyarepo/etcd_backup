@@ -1,0 +1,1 @@
+print (kubectl get podssss)
